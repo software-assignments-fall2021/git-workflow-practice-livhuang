@@ -1,6 +1,6 @@
 # Git Practice
 
-##Link to [Software Article](https://hackernoon.com/decentralizing-technology-society-and-thought-c59318a8aef9)
+## Link to [Software Article](https://hackernoon.com/decentralizing-technology-society-and-thought-c59318a8aef9)
 
 The software article I chose is about decentralization, specifically in regards to technology, society, and thought. The article opens on the concept of dectralization, stipulating that it is, 'a characteristic descriptive of power, control, access, or ownership, as they are spread across multiple actors, points, or nodes comprising a network'. I find this article interesting because it opens a discourse about the history of decentralization before the technological era, recounting how decentralization manifested in society back to the age of the industrial civilization. For example, social decentralization emerged as a byproduct of technological advancements; automobiles diminishing dependency on centralized transportation, printing press facilitating wider access to information, etc. 
 
